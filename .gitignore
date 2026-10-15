@@ -80,7 +80,7 @@ artifacts/shirone-ai-*
 
 # Personal dual-repository deployment
 .setup/
-content/
+/content/
 .env.*
 !.env.example
 /src/content/
@@ -88,3 +88,4 @@ content/
 /src/assets/images/
 /public/images/
 /src/user/user-config.ts
+

@@ -3,7 +3,7 @@
 .vercel/
 .env*
 !.env.example
-content/
+/content/
 shirones/
 public/images/
 node_modules/
@@ -13,3 +13,4 @@ dist/
 *.bundle
 *.zip
 *.log
+
