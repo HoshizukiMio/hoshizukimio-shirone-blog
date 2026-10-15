@@ -1,0 +1,15 @@
+.git/
+.setup/
+.vercel/
+.env*
+!.env.example
+content/
+shirones/
+public/images/
+node_modules/
+dist/
+.astro/
+.shirones/
+*.bundle
+*.zip
+*.log
